@@ -1,10 +1,10 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *FLIXSTER*
 
-Submitted by: **Your Name Here**
+Submitted by: **Dhruv Phansalkar**
 
-**Name of your app** is an app that introduces networking ... [TODO] 
+**FLIXSTER** is an app that introduces networking by making get calls to fetch movie data from tmdb database 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -42,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Dhruv Phansalkar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
