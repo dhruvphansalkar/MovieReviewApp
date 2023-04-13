@@ -1,6 +1,6 @@
 # Project 3 - *FLIXSTER*
 
-Submitted by: **Dhruv Phansalkar**
+Created by: **Dhruv Phansalkar**
 
 **FLIXSTER** is an app that enables users to see the reviews of latest movies from tmdb database
 
