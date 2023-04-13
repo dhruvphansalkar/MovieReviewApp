@@ -2,9 +2,7 @@
 
 Submitted by: **Dhruv Phansalkar**
 
-**FLIXSTER** is an app that introduces networking by making get calls to fetch movie data from tmdb database 
-
-Time spent: **4** hours spent in total
+**FLIXSTER** is an app that enables users to see the reviews of latest movies from tmdb database
 
 ## Required Features
 
@@ -17,11 +15,6 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] Make an additional network call to another end-point.	
-- [ ] Allow users to scroll when context items are off-screen (table view implemention)
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
